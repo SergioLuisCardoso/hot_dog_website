@@ -120,6 +120,7 @@ header .navbar a:hover{
         right: 0;
         background: #f7f7f7;
         border-top: .1rem solid rgba(0,0,0,.1);
+
     }
 
     header .navbar a{
@@ -127,6 +128,21 @@ header .navbar a:hover{
         padding: 1.5rem;
         display: block; /* menu format stairs - not side by side */
         border:.2rem solid rgba(0,0,0,.1);
+        border-left: .5rem solid var(--red);
+        background: #fff;
     }
+
+    @media(max-width:400px){
+
+        html{
+            font-size: 50%; /* font-size at screen */
+    
+        }    
+ 
+    
+    }
+    
+
+    
 
 }
