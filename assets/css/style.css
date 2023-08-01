@@ -146,7 +146,7 @@ header .navbar a:hover{
     animation: float 3s linear infinite;
 }
 
-
+/*
 @keyframes float{
     0%, 100%{
         transform: translateY(0rem);
@@ -155,7 +155,10 @@ header .navbar a:hover{
     50%{
         transform: translateY(3rem);
     }
+
 }
+
+*/
 
 .home .content h3{
     font-size: 5rem;
