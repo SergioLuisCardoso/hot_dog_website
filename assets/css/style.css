@@ -292,13 +292,13 @@ header .navbar a:hover{
     display: flex; /* side by side */
     flex-wrap: wrap;
     gap: 1.5rem;
+    padding: 1rem; /* espaço ícones circulares*/
 }
 
 .steps .box{
     flex:1 1 25rem;
     padding: 1rem;
     text-align: center;
-    font-size: 1.3rem;
 }
 
 .steps .box img{
@@ -307,6 +307,12 @@ header .navbar a:hover{
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
     width: 18.7rem; /* width cartoon icons*/ 
     height: 18.7rem; /* height cartoon icons*/ 
+}
+
+.steps .box h3{
+    font-size: 1.8rem;
+    color:#333;
+    padding: 1rem;
 }
 
 
