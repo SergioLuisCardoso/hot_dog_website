@@ -466,6 +466,20 @@ header .navbar a:hover{
     background: var(--red); 
 }
 
+.footer{
+    background: #000;
+    text-align: center;    
+}
+
+.footer .share{
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    
+}
+
 
 
 
