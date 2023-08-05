@@ -534,9 +534,12 @@ header .navbar a:hover{
     @media(max-width:450px){
 
         html{
-            font-size: 50%; /* font-size at screen */
-    
+            font-size: 50%; /* font-size at screen */    
         }    
+
+        .order .row form .inputBox input{
+            width: 100%;
+        }
  
     
     }
