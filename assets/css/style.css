@@ -475,10 +475,20 @@ header .navbar a:hover{
     display: flex;
     gap: 1.5rem;
     justify-content: center;
-    flex-wrap: wrap;
-    
-    
+    flex-wrap: wrap;  
 }
+
+.footer .credit{
+    padding: 1.5rem 1rem;
+    color: #fff;
+    font-weight: normal;
+    font-size: 2rem; 
+}
+
+.footer .credit span{
+    color: var(--red);
+}
+
 
 
 
