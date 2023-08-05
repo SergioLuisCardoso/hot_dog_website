@@ -538,10 +538,8 @@ header .navbar a:hover{
         }    
 
         .order .row form .inputBox input{
-            width: 100%;
-        }
- 
-    
+            width: 99%;
+        }    
     }
     
 
