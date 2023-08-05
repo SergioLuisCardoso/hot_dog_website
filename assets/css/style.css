@@ -452,7 +452,20 @@ header .navbar a:hover{
     width: 49%; /* Tamanho campos form - 100% too ok*/
 }
 
-.order .row form textarea
+.order .row form textarea{
+    width: 100%;
+    resize: none;
+    height: 15rem;
+}
+
+.order .row form .btn{
+    background: none; 
+}
+
+.order .row form .btn:hover{
+    background: var(--red); 
+}
+
 
 
 
@@ -518,7 +531,7 @@ header .navbar a:hover{
         background: #fff;
     }
 
-    @media(max-width:400px){
+    @media(max-width:450px){
 
         html{
             font-size: 50%; /* font-size at screen */
