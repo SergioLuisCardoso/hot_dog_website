@@ -369,6 +369,10 @@ header .navbar a:hover{
     padding-top: 1rem;
 }
 
+.popular .box-container .box p{
+    font-size: 1.1rem;
+}
+
 .popular .box-container .box .stars{
     color:gold;
     font-size: 1.5rem;
