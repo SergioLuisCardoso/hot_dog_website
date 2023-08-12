@@ -83,6 +83,15 @@ section{
     color: #fff;
 }
 
+hr {
+    border: none;
+    background-color: var(--first-color);
+    height: 2px;
+    width: 140px;
+    margin: 20px auto;
+    padding-bottom: 4.5rem;
+}
+
 
 /****************************************/
 /*************** Header *****************/
