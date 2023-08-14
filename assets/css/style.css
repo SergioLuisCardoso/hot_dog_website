@@ -374,7 +374,7 @@ header .navbar a:hover{
 
 .popular .box-container .box h3{
     color:#333;
-    font-size: 1.7rem;
+    font-size: 2rem;
     padding-top: 1rem;
 }
 
@@ -385,7 +385,8 @@ header .navbar a:hover{
 .popular .box-container .box .stars{
     color:gold;
     font-size: 1.5rem;
-    padding: 1rem .1rem;
+    padding: 0.3rem .2rem;
+    /*padding: 1rem .1rem;*/
 }
 
 /****************************************/
